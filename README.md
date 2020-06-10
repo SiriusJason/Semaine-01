@@ -19,7 +19,7 @@ Un document markdown nommé "Objectifs" reprennant les objectifs de la semaine.
 
 Et pour finir un dossier Assets reprenant les éléments de design dont vous pourriez avoir besoin durant vos exercices.
 
-## Obtenir les consignes et rendre ses travaux: 
+## Obtenir les consignes et rendre ses travaux:
 
 On fork et on pull request !
 
@@ -38,5 +38,4 @@ Pour rendre votre travail il vous suffit de faire une pull request, si vous avez
 Bienvenue chez nous, et bon travail!
 
 L'équipe Sirius School
-
-
+C'est mwa :3
